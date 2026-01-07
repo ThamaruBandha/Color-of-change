@@ -3,7 +3,7 @@
 This project is a student-built awareness website created to highlight the importance of racial justice, equality, and human dignity.
 
  **Live Site:**  
-https://yourusername.github.io/color-of-change-racial-justice-website/
+https://thamarubandha.github.io/Color-of-change/ 
 
 ## Purpose
 The goal of this site is to:
